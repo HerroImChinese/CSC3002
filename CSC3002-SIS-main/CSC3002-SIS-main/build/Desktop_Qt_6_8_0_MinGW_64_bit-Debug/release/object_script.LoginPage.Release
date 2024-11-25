@@ -1,0 +1,11 @@
+release/broadcast.o
+release/main.o
+release/login.o
+release/idregister.o
+release/homewindow.o
+release/announcement.o
+release/moc_broadcast.o
+release/moc_login.o
+release/moc_idregister.o
+release/moc_homewindow.o
+release/moc_announcement.o

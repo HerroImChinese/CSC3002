@@ -1,0 +1,11 @@
+debug/broadcast.o
+debug/main.o
+debug/login.o
+debug/idregister.o
+debug/homewindow.o
+debug/announcement.o
+debug/moc_broadcast.o
+debug/moc_login.o
+debug/moc_idregister.o
+debug/moc_homewindow.o
+debug/moc_announcement.o
